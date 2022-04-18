@@ -1,6 +1,6 @@
 # aircanvasandclock
 
-1 First of all install python and opencv in ur device
+First of all install python and opencv in ur device
 
 Then Run the code for Air Canvas and take a object like or finger tip (e.g blue color pen)
 
